@@ -6,7 +6,7 @@ public class SpawnScript : MonoBehaviour
 {
 
     public Transform[] spawnPoints;
-    public GameObject[] balloons;
+    public GameObject[] enemies;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,7 @@ public class SpawnScript : MonoBehaviour
         //for(int i = 0; i < 3; i++)
         //{
             Instantiate(
-                balloons[Random.Range(0, balloons.Length)],
+                enemies[Random.Range(0, enemies.Length)],
                 spawnPoints[Random.Range(0, spawnPoints.Length)].position, Quaternion.Euler(0, -180, 0));
         //}
 
