@@ -7,9 +7,11 @@ Ghost Hunter is a Halloween themed AR application, in which malicious ghostly sp
 Functionally, the game is a first person shooter, in which the player moves their phone camera around their play space to find enemy ghosts to destroy. The challenge comes from having to quickly move the phone in order to find ghosts that are not in view of the player’s camera. Each ghost destroyed will reward the player five points, tasking the player to score as many points as possible before the round ends. Each round lasts for fifty seconds before totalling up the user’s score on the “game over” screen. The main function of shooting is activated by a button that the player taps with their thumb as they hold the phone.
 
 ## Application Download Links
-This game was developed for iPhone. 
+This game was developed for iPhone and can be run using Xcode.
 
-Build files download link: https://drive.google.com/file/d/1m3G08HfZl9GfurE160VnyhaQQ75VM2xn/view?usp=sharing
+Download the build files [here](https://drive.google.com/file/d/1m3G08HfZl9GfurE160VnyhaQQ75VM2xn/view?usp=sharing).
+
+Refer to the installation guide PDF to troubleshoot any issues.
 
 ## Demo Video
-For a preview of the gameplay and the app's features, please watch my gameplay demo video.
+For a preview of the gameplay and the app's features, please watch my gameplay demo video - found in this repository or on [YouTube](https://youtu.be/qK2FfZQelgM).
