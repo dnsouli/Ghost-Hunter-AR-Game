@@ -14,4 +14,4 @@ Download the build files [here](https://drive.google.com/file/d/1m3G08HfZl9GfurE
 Refer to the installation guide PDF to troubleshoot any issues.
 
 ## Demo Video
-For a preview of the gameplay and the app's features, please watch my gameplay demo video.
+For a preview of the gameplay and the app's features, please watch my gameplay demo video. This video can be found in this repository or on [YouTube](https://youtu.be/qK2FfZQelgM)
